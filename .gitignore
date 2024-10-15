@@ -1,0 +1,183 @@
+# Операційні системи
+
+# macOS системні файли
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows системні файли
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux тимчасові файли
+*~
+.nfs*
+
+# Редактори коду
+
+# JetBrains IDEs (IntelliJ, PyCharm і т.д.)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VSCode файли
+.vscode/
+.vscode-test/
+
+# Sublime Text файли
+*.sublime-workspace
+*.sublime-project
+
+# Vim/Neovim файли
+*.swp
+*.swo
+*.swn
+
+# Emacs файли
+*~
+\#*\#
+*.elc
+
+# Конфігураційні файли пакетів
+
+# Node.js/NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+pip-log.txt
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# JavaScript/TypeScript
+dist/
+build/
+*.tsbuildinfo
+*.map
+
+# Ruby
+*.gem
+*.rbc
+.ruby-version
+.ruby-gemset
+
+# PHP
+vendor/
+*.log
+*.cache
+
+# Go
+*.exe
+*.out
+*.test
+*.mod
+*.sum
+
+# Rust
+target/
+Cargo.lock
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Java & Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.dex
+
+# Swift/Objective-C
+*.ipa
+*.dSYM/
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdatad/
+*.xcuserdata
+*.swiftinterface
+*.build/
+build/
+
+# Інструменти
+
+# Docker
+*.log
+*.pid
+docker-compose.override.yml
+
+# Log файли
+*.log
+*.log.*
+
+# Temporary файли
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swm
+
+# Системи контролю версій
+.hg/
+.svn/
+.lock-wscript
+.lock-staging
+.yarn-cache/
+.yarn-integrity
+.yarnclean
+.gem/
+.gemspec
+.yardoc
+
+# Інші поширені
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.bak
+*.old
+*.tmp
+*.backup
+*.orig
+*.rej
+*.out
+
+# Media/Assets
+*.psd
+*.ai
+*.xcf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.mp3
+*.wav
