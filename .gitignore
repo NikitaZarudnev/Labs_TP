@@ -173,11 +173,6 @@ docker-compose.override.yml
 *.psd
 *.ai
 *.xcf
-*.png
-*.jpg
-*.jpeg
 *.gif
-*.mp4
 *.mov
-*.mp3
 *.wav
