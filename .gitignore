@@ -101,7 +101,6 @@ Cargo.lock
 # C/C++
 *.o
 *.obj
-*.exe
 *.out
 *.dll
 *.so
@@ -158,8 +157,6 @@ docker-compose.override.yml
 
 # Інші поширені
 *.tar.gz
-*.zip
-*.rar
 *.7z
 *.bak
 *.old
@@ -173,11 +170,6 @@ docker-compose.override.yml
 *.psd
 *.ai
 *.xcf
-*.png
-*.jpg
-*.jpeg
 *.gif
-*.mp4
 *.mov
-*.mp3
 *.wav
